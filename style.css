@@ -1,7 +1,7 @@
 #parent{
     display: flex;
     flex-wrap: wrap;
-    margin-top: 10px;
+    /* margin-top: 10px; */
 }
 
 #one{
@@ -10,7 +10,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
     
 }
 #two{
@@ -19,7 +19,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
     
     
 }
@@ -29,7 +29,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
     
 }
 #four{
@@ -38,7 +38,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 #five{
     background-color: rgb(10, 175, 240);
@@ -46,7 +46,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 #six{
     background-color: rgb(222, 231, 228);
@@ -54,7 +54,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 #seven{
     background-color: rgb(3, 58, 40);
@@ -62,7 +62,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 #eight{
     background-color: rgb(75, 69, 131);
@@ -70,7 +70,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 #nine{
     background-color: rgb(136, 70, 134);
@@ -78,7 +78,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 #ten{
     background-color: rgb(234, 14, 146);
@@ -86,7 +86,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 #eleven{
     background-color: rgb(160, 152, 77);
@@ -94,7 +94,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 #twelve{
     background-color: rgba(219, 235, 230, 0.503);
@@ -102,7 +102,7 @@
     height: 100px;
     margin-right: 10px;
     margin-top: 10px;
-    margin-left: 10px;
+    /* margin-left: 10px; */
 }
 /* body{
     background-color: red;
