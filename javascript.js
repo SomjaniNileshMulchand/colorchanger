@@ -1,4 +1,4 @@
-// const color = document.querySelector("#one")
+
 const color = document.querySelector("#one")
 
 color.addEventListener("click",()=>{
@@ -73,7 +73,4 @@ nine.addEventListener("click",()=>{
 
 
 
-// const change = document.querySelector("color")
-// function color()  {
-//     document.body.style.backgroundColor = "red";
-// }
+ 
